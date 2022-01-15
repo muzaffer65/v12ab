@@ -1,0 +1,28 @@
+{
+  "prefix": ".",
+  "sahip": "852644949350547487",
+
+  "Penal": {
+    "Jail": { "AuthRole": "852987014650920982", "Role": "853581377185382452" }
+  },
+  "Emojis": {
+    "tik": "<:5514508c16de45e39e08bbfc6e0318e5:872072075681071174> ",
+    "iptal": "822693495507517440",
+
+    "star": "822468608546439178"
+  },
+  "Authorization": {
+    "Registers": {
+      "Roles": "852987014650920982",
+      "AgeLimit": 13,
+      "ManRoles": ["MAN_ROLE_1", "MAN_ROLE_2"],
+      "WomanRoles": ["WOMAN :D", "WOMAN :D"]
+    }
+  },
+  "OtherRoles": { "Booster": "839070062610612234" },
+  "Channels": {
+    "jailLog": "846138310770294805",
+    "puanLog": "846138310770294805",
+    "rollog": "846138310770294805"
+  }
+}
